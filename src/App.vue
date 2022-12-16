@@ -1,6 +1,5 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
-import Test from './components/Test.vue'
 </script>
 
 <template>
@@ -12,7 +11,6 @@ import Test from './components/Test.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <Test />
   <HelloWorld msg="Vite + Vue" />
 </template>
 
